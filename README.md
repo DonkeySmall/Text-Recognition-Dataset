@@ -3,7 +3,8 @@
 <b>Английский</b>
 <ul>
   <li><a href="https://drive.google.com/file/d/1o2dk_HZgcF1ecdb4X8lux-4W8i7lh_ao/view?usp=sharing">Part 1</a> - 500 000 картинок, без аугментации, в основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b></li>
-  <li>скоро добавлю еще 1.5 миллиона, наверно...</li>
+  <li><a href="https://drive.google.com/file/d/1pMYW1gfBCmmFRQSsNTDn-zPWsGssSxyW/view?usp=sharing">Part 2</a> - 500 000 картинок, без аугментации, в основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b></li>
+  <li>скоро добавлю еще 1 миллион, наверно...</li>
   <li>скоро добавлю еще 2 миллиона картинок в перемешку с символами 1234567890,./:;'"[]{}-_=+!?@#$€¥£₤₽¢¤«±%&*()~<>^|\№</li>
 </ul>
 
