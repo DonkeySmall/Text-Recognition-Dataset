@@ -29,4 +29,4 @@
 
 ![000000](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/2bd27f81-e935-4d76-aa7b-287e0773981e)
 
-P.S. Если вам что то не понятно мне поуху
+<b>P.S.</b> Если вам что то не понятно мне поуху
