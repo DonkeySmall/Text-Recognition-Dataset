@@ -30,4 +30,7 @@
 
 ![000000](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/2bd27f81-e935-4d76-aa7b-287e0773981e)
 
+![000005](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/e287874b-d296-4baa-b85b-a02d995b851d)
+
+
 <b>P.S.</b> Если вам что то не понятно мне поуху
