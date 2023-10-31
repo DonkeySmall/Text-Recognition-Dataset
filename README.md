@@ -1,16 +1,20 @@
 # Text-Recognition-Dataset
 
 <b>Английский</b>
+
+
 <ul>
-  <li><a href="https://drive.google.com/file/d/1o2dk_HZgcF1ecdb4X8lux-4W8i7lh_ao/view?usp=sharing">Part 1</a> - 500 000 картинок, без аугментации, в основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b></li>
-  <li><a href="https://drive.google.com/file/d/1pMYW1gfBCmmFRQSsNTDn-zPWsGssSxyW/view?usp=sharing">Part 2</a> - 500 000 картинок, без аугментации, в основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b></li>
-  <li><a href="https://drive.google.com/file/d/1F2KgadB55IrdxoK5e9e06Z9TreNCsvne/view?usp=sharing">Part 3</a> - 500 000 картинок, без аугментации, в основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b></li>  
-  <li>скоро добавлю еще 2 миллиона картинок в перемешку с символами 1234567890,./:;'"[]{}-_=+!?@#$€¥£₤₽¢¤«±%&*()~<>^|\№</li>
+  <li><a href="https://drive.google.com/file/d/1o2dk_HZgcF1ecdb4X8lux-4W8i7lh_ao/view?usp=sharing">Part 1</a> - 500 000 картинок, без аугментации</li>
+  <li><a href="https://drive.google.com/file/d/1pMYW1gfBCmmFRQSsNTDn-zPWsGssSxyW/view?usp=sharing">Part 2</a> - 500 000 картинок, без аугментации</li>
+  <li><a href="https://drive.google.com/file/d/1F2KgadB55IrdxoK5e9e06Z9TreNCsvne/view?usp=sharing">Part 3</a> - 500 000 картинок, без аугментации</li> 
+  <li><a href="https://drive.google.com/file/d/1A4onJ_7d6zm8YX4FhAR03ookyLkgY_Pt/view?usp=sharing">Part 4</a> - 500 000 картинок, аугментация: 50 % картинок с тенью от текста </li>  
+  В основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b>
+  , скоро добавлю еще 2 миллиона картинок в перемешку с символами 1234567890,./:;'"[]{}-_=+!?@#$€¥£₤₽¢¤«±%&*()~<>^|\№
 </ul>
 
 <b>Русский</b>
 <ul>
-  <li>не скоро добавлю 2 миллиона, наверно..., очень трудно собрать достаточно русских шрифтов</li>
+  <li>пока нет</li>
 </ul>
 
 <b>Формат данных</b>
