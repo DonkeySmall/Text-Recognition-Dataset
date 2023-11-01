@@ -57,6 +57,8 @@
 
 ![000004](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/7e12f082-e577-4673-88ea-6fd81282dc7b)
 
+![000008](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/2d6f3695-6ae7-4123-8f74-b0272f108488)
+
 ![000000](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/2bd27f81-e935-4d76-aa7b-287e0773981e)
 
 ![000005](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/e287874b-d296-4baa-b85b-a02d995b851d)
