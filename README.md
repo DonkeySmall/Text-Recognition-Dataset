@@ -10,9 +10,16 @@
   <a href="https://drive.google.com/file/d/1A4onJ_7d6zm8YX4FhAR03ookyLkgY_Pt/view?usp=sharing">Part 4</a> - 2 000 000 картинок</li>  
   В основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b>
 </ul> 
+<ul>
+  <img src="https://user-images.githubusercontent.com/66531939/279373512-49d7ed5e-c04e-45bb-8797-168b424b1256.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279381338-8a4ff2cc-9fb2-4719-9ece-a5e622a5065f.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279381222-a8c25a98-560f-48ec-9fa0-be94d415686d.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279373629-5cf3251e-b18d-428a-8af0-7001f8917d0b.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279381144-6d767f80-ea04-4a81-8d65-348d2a8173a2.jpg" height="28">
+</ul>
 <ul>  
   <li><a href="https://drive.google.com/file/d/1fU99e_7TCrficzJ0NePaw2nuk9b6O437/view?usp=sharing">Part 5</a> - 500 000 картинок</li>  
-  Символы <b>0123456789</b>
+  Символы <b>0123456789</b> 
 </ul>
 
 <b>Русский</b>
