@@ -1,4 +1,4 @@
-# Text-Recognition-Dataset
+# Text Recognition Dataset
 
 <b>Английский</b>
 
@@ -11,23 +11,23 @@
   В основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b>
 </ul> 
 <ul>
-  <img src="https://user-images.githubusercontent.com/66531939/279373512-49d7ed5e-c04e-45bb-8797-168b424b1256.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279381338-8a4ff2cc-9fb2-4719-9ece-a5e622a5065f.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279381222-a8c25a98-560f-48ec-9fa0-be94d415686d.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279373629-5cf3251e-b18d-428a-8af0-7001f8917d0b.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279381144-6d767f80-ea04-4a81-8d65-348d2a8173a2.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279373512-49d7ed5e-c04e-45bb-8797-168b424b1256.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279381338-8a4ff2cc-9fb2-4719-9ece-a5e622a5065f.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279381222-a8c25a98-560f-48ec-9fa0-be94d415686d.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279373629-5cf3251e-b18d-428a-8af0-7001f8917d0b.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279381144-6d767f80-ea04-4a81-8d65-348d2a8173a2.jpg" height="30">
 </ul>
 <ul>  
   <li><a href="https://drive.google.com/file/d/1fU99e_7TCrficzJ0NePaw2nuk9b6O437/view?usp=sharing">Part 5</a> - 500 000 картинок</li>  
   Символы <b>0123456789</b> 
 </ul>
 <ul>
-  <img src="https://user-images.githubusercontent.com/66531939/279603333-319c849b-d88a-4985-889b-af02156cad81.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279603438-e4700b31-c9e9-4e6f-9595-7e4f8d3529b6.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279603509-5e92dc5e-1cd4-48af-bce3-415dcd787393.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279603248-bb3daeff-7634-4e3b-8424-8e9ad3f273d7.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279603289-cd9df25b-98f3-45b5-9246-3ebd3e8bae67.jpg" height="28">
-  <img src="https://user-images.githubusercontent.com/66531939/279604100-df99cd90-7c99-42bc-be8e-3aa7c71b85a8.jpg" height="28">
+  <img src="https://user-images.githubusercontent.com/66531939/279603333-319c849b-d88a-4985-889b-af02156cad81.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279603438-e4700b31-c9e9-4e6f-9595-7e4f8d3529b6.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279603509-5e92dc5e-1cd4-48af-bce3-415dcd787393.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279603248-bb3daeff-7634-4e3b-8424-8e9ad3f273d7.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279603289-cd9df25b-98f3-45b5-9246-3ebd3e8bae67.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279604100-df99cd90-7c99-42bc-be8e-3aa7c71b85a8.jpg" height="30">
 </ul>
 
 <b>Русский</b>
