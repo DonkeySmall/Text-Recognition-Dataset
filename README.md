@@ -29,7 +29,19 @@
   <img src="https://user-images.githubusercontent.com/66531939/279603289-cd9df25b-98f3-45b5-9246-3ebd3e8bae67.jpg" height="30">
   <img src="https://user-images.githubusercontent.com/66531939/279604100-df99cd90-7c99-42bc-be8e-3aa7c71b85a8.jpg" height="30">
 </ul>
-
+<ul>  
+  <li><a href="https://drive.google.com/file/d/1Sy8K9fe8efUpdTPmBshEDVeImFjUh2QJ/view?usp=sharing">Part 6</a> - 500 000 картинок</li>  
+  Символы <b>0123456789\,.:/-</b> 
+</ul>
+<ul>
+  <img src="https://user-images.githubusercontent.com/66531939/279661555-ae6c4225-d960-4b0e-8931-55561b6aab35.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279661680-5c536ff4-9bc4-4c23-a528-6192d3ef5e90.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279661834-7fb61c04-8526-40c1-90e5-09dcc998d911.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279603509-5e92dc5e-1cd4-48af-bce3-415dcd787393.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279661498-f31eb144-5589-4165-9ac0-c711a820c98c.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279661531-b38402d0-ff0f-47ff-a2a2-5f5e30a8b82c.jpg" height="30">
+  <img src="https://user-images.githubusercontent.com/66531939/279662788-656320c7-9bc1-40c1-9cc0-8ab3cfad0654.jpg" height="30">
+</ul>
 <b>Русский</b>
 <ul>
   <li>пока нет</li>
@@ -77,6 +89,20 @@
 ![490737](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/5e92dc5e-1cd4-48af-bce3-415dcd787393)
 ![490942](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/e555bd69-7b23-4394-a8a1-ad774ea4bb51)
 ![491041](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/df99cd90-7c99-42bc-be8e-3aa7c71b85a8)
+![490204](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/f31eb144-5589-4165-9ac0-c711a820c98c)
+![490232](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/b38402d0-ff0f-47ff-a2a2-5f5e30a8b82c)
+![490346](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/ae6c4225-d960-4b0e-8931-55561b6aab35)
+![490392](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/a62df146-e703-4ba8-bb05-655f7948bc7e)
+![490546](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/8b973c80-21e0-47fd-bd8c-6b6f172f4873)
+![490699](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/5c536ff4-9bc4-4c23-a528-6192d3ef5e90)
+![490924](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/22e101ac-a530-4447-8a11-ca69d196c2b7)
+![491066](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/7fb61c04-8526-40c1-90e5-09dcc998d911)
+![491065](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/d2237cf6-df78-4895-b1c9-f0b80f4a7f14)
+![491121](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/30617ebd-6b0b-4c99-a8ba-245c1175dae9)
+![491115](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/49220277-59f6-4cb1-aedf-d5a11afdd987)
+![491363](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/5f37b3fe-eeee-48ac-83af-612160938d0e)
+![492190](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/19511c16-098a-4032-84ba-8849b9cc90b0)
+![492701](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/656320c7-9bc1-40c1-9cc0-8ab3cfad0654)
 
 
 ![000004](https://github.com/DonkeySmall/Text-Recognition-Dataset/assets/66531939/7e12f082-e577-4673-88ea-6fd81282dc7b)
