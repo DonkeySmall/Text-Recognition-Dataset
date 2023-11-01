@@ -4,12 +4,15 @@
 
 
 <ul>
-  <li><a href="https://drive.google.com/file/d/1o2dk_HZgcF1ecdb4X8lux-4W8i7lh_ao/view?usp=sharing">Part 1</a> - 500 000 картинок, без аугментации</li>
-  <li><a href="https://drive.google.com/file/d/1pMYW1gfBCmmFRQSsNTDn-zPWsGssSxyW/view?usp=sharing">Part 2</a> - 500 000 картинок, без аугментации</li>
-  <li><a href="https://drive.google.com/file/d/1F2KgadB55IrdxoK5e9e06Z9TreNCsvne/view?usp=sharing">Part 3</a> - 500 000 картинок, без аугментации</li> 
-  <li><a href="https://drive.google.com/file/d/1A4onJ_7d6zm8YX4FhAR03ookyLkgY_Pt/view?usp=sharing">Part 4</a> - 500 000 картинок, аугментация: 50 % картинок с тенью от текста </li>  
+  <li><a href="https://drive.google.com/file/d/1o2dk_HZgcF1ecdb4X8lux-4W8i7lh_ao/view?usp=sharing">Part 1</a>,
+  <a href="https://drive.google.com/file/d/1pMYW1gfBCmmFRQSsNTDn-zPWsGssSxyW/view?usp=sharing">Part 2</a>,
+  <a href="https://drive.google.com/file/d/1F2KgadB55IrdxoK5e9e06Z9TreNCsvne/view?usp=sharing">Part 3</a>, 
+  <a href="https://drive.google.com/file/d/1A4onJ_7d6zm8YX4FhAR03ookyLkgY_Pt/view?usp=sharing">Part 4</a> - 2 000 000 картинок</li>  
   В основном символы <b>abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</b>
-  , скоро добавлю еще 2 миллиона картинок в перемешку с символами 1234567890,./:;'"[]{}-_=+!?@#$€¥£₤₽¢¤«±%&*()~<>^|\№
+</ul> 
+<ul>  
+  <li><a href="https://drive.google.com/file/d/1fU99e_7TCrficzJ0NePaw2nuk9b6O437/view?usp=sharing">Part 5</a> - 500 000 картинок</li>  
+  Символы <b>0123456789</b>
 </ul>
 
 <b>Русский</b>
